@@ -2,7 +2,7 @@
 
 Bienvenue dans ce guide d'installation de Ryu ! Si tu cherches à installer ce framework pour ton projet SDN et que tu veux le faire dans un style "renard" (un peu excentrique, mais efficace), tu es au bon endroit ! Attention, cet itinéraire n'est pas pour les âmes sensibles, mais si tu suis chaque étape, tu finiras par dompter Ryu avec la grâce d'un renard 🦊.
 
-## Pré-requis : Installe Python 3.9 (ou plus récent)
+## Pré-requis : Installe Python 3.9 (3.8 mais pas plus recent !! )
 
 ### Étape 1 : Vérifier ta version de Python 🐍
 
